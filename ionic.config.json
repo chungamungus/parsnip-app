@@ -1,0 +1,7 @@
+{
+  "name": "parsnip-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
